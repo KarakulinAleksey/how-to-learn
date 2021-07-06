@@ -67,7 +67,7 @@ body, h1, h2, h3, p, a {
   bottom:30px;
   line-height: 25px;
   font-size: 18px;
-  font-style:normal ;
+  font-style:normal;
   z-index: 3;
 }
 
@@ -465,12 +465,6 @@ body, h1, h2, h3, p, a {
   font-size: 18px;
   font-weight: bold;
   color: white;
-}
-
-.footer__column-links{
-  display: flex;
-  flex-direction: column;
-
 }
 
 .footer__column-links{
