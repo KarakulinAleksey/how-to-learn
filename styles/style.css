@@ -38,8 +38,6 @@
 }
 
 .header__title{
-  font-size: 100%;
-  font-weight: normal;
   width: 730px;
   margin: auto auto;
   margin-left: 64px;
@@ -104,7 +102,6 @@
 }
 
 .two-columns__brief{
-  font-size: 100%;
   font-weight: normal;
   width: 175px;
   line-height: 1.2;
