@@ -41,6 +41,8 @@
   width: 730px;
   align-self: center;
   margin-left: 64px;
+  margin-top: 0;
+  margin-bottom: 0;
   line-height: 96px;
   font-size: 102px;
   font-weight: bold;
@@ -256,12 +258,12 @@
   position: relative;
 }
 
-.section-title__theme_dark {
+.section-title_theme_dark {
   color: white;
   z-index: 2;
 }
 
-.section-subtitle__theme_dark {
+.section-subtitle_theme_dark {
   color: white;
   z-index: 2;
 }
