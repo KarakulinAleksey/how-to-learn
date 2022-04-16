@@ -25,6 +25,5 @@
 
 ## Установка 
 *Для запуска проекта локально:*  
-*1.клонируйте репозиторий:*<br/>
-`git clone https://github.com/KarakulinAleksey/how-to-learn.git`<br/>
-*2.Запустите на локальном сервере*
+*1. Клонируйте репозиторий:* `git clone https://github.com/KarakulinAleksey/how-to-learn.git`<br/>
+*2. Запустите на локальном сервере*
