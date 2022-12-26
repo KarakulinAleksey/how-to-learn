@@ -26,3 +26,4 @@
 *Для запуска проекта локально:*  
 *1. Клонируйте репозиторий:* `git clone https://github.com/KarakulinAleksey/how-to-learn.git`<br/>
 *2. Запустите на локальном сервере*
+*3. Для просмотра страница доступна по адресу https://karakulinaleksey.github.io/how-to-learn/
